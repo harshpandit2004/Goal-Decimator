@@ -6,7 +6,8 @@ This repository contains the code for my first React Native project, developed w
 
 The project is a beginner-level application that allows users to add achievable course goals and displays those goals in a list. Additionally, users have the option to "decimate" their goals by tapping on individual elements.
 
-My React Native Notes: https://docs.google.com/document/d/1p9dRtNOGyUxUqTI-jR6i9hnyP8DycZTYJoyO5Y8orEc/edit?usp=sharing
+[React Native Notes](https://docs.google.com/document/d/1p9dRtNOGyUxUqTI-jR6i9hnyP8DycZTYJoyO5Y8orEc/edit?usp=sharing)
+
 
 ## Features Added
 
