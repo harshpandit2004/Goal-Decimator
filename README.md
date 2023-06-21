@@ -1,7 +1,5 @@
 # My First React Native Project
 
-![React Native Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)
-
 This repository contains the code for my first React Native project, developed while following Maximilian Schwarzmüller's Udemy course "React Native - The Practical Guide 2023".
 
 ## Project Overview
