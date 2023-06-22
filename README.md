@@ -11,11 +11,11 @@ The project is a beginner-level application that allows users to add achievable 
 
 ## Features Added
 
-- Finalized UI/UX.
+- Finalized UI / UX.
 - Users can add unique individual goals with automatically generated random keys.
 - Scrollable list of goals implemented using FlatList.
+- Implemented component compartmentalization and create a hierarchical object model for better organization and reusability.
 
 ## Features to be Added
 
 - Implement a method to remove a goal when it is tapped or when a button on it is pressed.
-- Implement component compartmentalization and create a hierarchical object model for better organization and reusability.
