@@ -15,7 +15,8 @@ The project is a beginner-level application that allows users to add achievable 
 - Users can add unique individual goals with automatically generated random keys.
 - Scrollable list of goals implemented using FlatList.
 - Implemented component compartmentalization and create a hierarchical object model for better organization and reusability.
-- Implement a method to remove a goal when it is tapped or when a button on it is pressed.
+- Implemented a method to remove a goal when it is tapped or when a button on it is pressed.
 
 ## Features to be Added
-- None. Project Completed and Terminated.
+
+- None. Developmental Phase Completed and Terminated. Deployment yet to be learnt.

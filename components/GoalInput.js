@@ -1,5 +1,12 @@
 import React, { useState } from "react";
-import { StyleSheet, View, TextInput, Button, Modal, Image } from "react-native";
+import {
+  StyleSheet,
+  View,
+  TextInput,
+  Button,
+  Modal,
+  Image,
+} from "react-native";
 
 export default function GoalInput(props) {
   return (
@@ -11,7 +18,6 @@ export default function GoalInput(props) {
           placeholder="Your Goal"
           onChangeText={props.updateGoalItem}
           value={props.goalItem}
-
         />
         <View style={styles.buttonView}>
           <Button
@@ -66,5 +72,5 @@ const styles = StyleSheet.create({
     width: 300,
     height: 300,
     margin: 50,
-  }
+  },
 });
