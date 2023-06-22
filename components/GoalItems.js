@@ -8,7 +8,12 @@ export default function GoalItems(props) {
       <FlatList
         data={props.goalList}
         renderItem={(itemData) => {
-          return <GoalItem itemData={itemData} />;
+          return (
+            <GoalItem
+              item={itemData.item}
+              deleteitemHandler={props.deleteitemHandler}
+            />
+          );
         }}
       />
     </View>
